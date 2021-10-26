@@ -1,0 +1,11 @@
+c:\users\pelud\documents\visual studio 2015\Projects\calculadora con switch\calculadora con switch\bin\Debug\calculadora con switch.exe.config
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\bin\Debug\calculadora con switch.exe.config
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\bin\Debug\calculadora con switch.exe
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\bin\Debug\calculadora con switch.pdb
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\obj\Debug\calculadora_con_switch.Properties.Resources.resources
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\obj\Debug\calculadora con switch.csproj.GenerateResource.Cache
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\obj\Debug\calculadora con switch.exe
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\obj\Debug\calculadora con switch.pdb
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\obj\Debug\calculadora_con_switch.Calculadoraconswitch.resources
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\obj\Debug\calculadora con switch.csprojAssemblyReference.cache
+C:\Users\pelud\Documents\Visual Studio 2015\Projects\segunda unidad\calculadora con switch\calculadora con switch\obj\Debug\calculadora con switch.csproj.CoreCompileInputs.cache
